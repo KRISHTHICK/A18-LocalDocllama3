@@ -1,0 +1,6 @@
+localdoc_qa/
+│
+├── app.py                 # Streamlit app
+├── ollama_runner.py       # Interact with LLM via subprocess or langchain
+├── document_loader.py     # PDF loader
+└── requirements.txt
