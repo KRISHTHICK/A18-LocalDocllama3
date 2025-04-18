@@ -1,0 +1,14 @@
+# streamlit run app.py
+
+# pip install -r requirements.txt
+
+# Create a folder, say localdoc_qa, and inside that, create a requirements.txt file:
+
+streamlit
+langchain
+pypdf
+faiss-cpu
+tqdm
+sentence-transformers
+
+# ollama pull llama3
